@@ -92,7 +92,9 @@ python app.py
 
 This project is open-source and free to use for educational or personal purposes.
 
-**💖 Support the Project:**
+---
+
+## **💖 Support me:**
 
 [![Donate on DeStream](https://img.shields.io/badge/Donate-DeStream-blue?style=for-the-badge)](https://destream.net/live/H190K/donate)  
 [![Donate with NOWPayments](https://img.shields.io/badge/Donate-NOWPayments-purple?style=for-the-badge)](https://nowpayments.io/donation?api_key=J0QACAH-BTH4F4F-QDXM4ZS-RCA58BH)  
