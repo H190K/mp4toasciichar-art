@@ -34,12 +34,25 @@ pip install opencv-python numpy yt-dlp
 
 ---
 
+## 📦 Clone the Repository
+
+You can clone this project directly from GitHub:
+
+```bash
+git clone https://github.com/H190K/mp4toasciichar-art.git
+cd mp4toasciichar-art
+```
+
+Then you can run the program as described below.
+
+---
+
 ## 🕹️ Usage
 
 1. Run the program:
 
    ```bash
-   python index.py
+   python app.py
    ```
 
 2. Enter a **video path** or a **YouTube URL** when prompted.
@@ -55,10 +68,10 @@ pip install opencv-python numpy yt-dlp
 
 ---
 
-## 📦 Example
+## 🧩 Example
 
 ```bash
-python index.py
+python app.py
 📁 Enter video path or YouTube URL: https://youtu.be/dQw4w9WgXcQ
 📏 Enter terminal width (default 120): 100
 🎨 Enable color? (y/n, default y): y
