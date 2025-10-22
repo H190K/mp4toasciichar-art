@@ -94,7 +94,25 @@ This project is open-source and free to use for educational or personal purposes
 
 ---
 
-## **💖 Support me:**
+## 💖 Support the Project
 
-[![Donate on DeStream](https://img.shields.io/badge/Donate-DeStream-blue?style=for-the-badge)](https://destream.net/live/H190K/donate)  
-[![Donate with NOWPayments](https://img.shields.io/badge/Donate-NOWPayments-purple?style=for-the-badge)](https://nowpayments.io/donation?api_key=J0QACAH-BTH4F4F-QDXM4ZS-RCA58BH)  
+Love this worker? Here's how you can help:
+
+
+<div align="center">
+
+[![Support via DeStream](https://img.shields.io/badge/🍕_Feed_the_Developer-DeStream-FF6B6B?style=for-the-badge)](https://destream.net/live/H190K/donate)
+
+[![Crypto Donations](https://img.shields.io/badge/Crypto_Donations-NOWPayments-9B59B6?style=for-the-badge&logo=bitcoin&logoColor=colored)](https://nowpayments.io/donation?api_key=J0QACAH-BTH4F4F-QDXM4ZS-RCA58BH)
+
+</div>
+
+---
+
+<div align="center">
+
+**Built with ❤️ by [H190K](https://github.com/H190K)**
+
+
+
+</div>
